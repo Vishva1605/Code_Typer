@@ -1,0 +1,13 @@
+public class EscapeTest {
+    public static void main(String[] args) {
+        System.out.println("Line1\nLine2");
+        System.out.println("Tab\tSeparated");
+        System.out.println("Backslash: ");
+        System.out.println("Quote: \"");
+    }
+}public class EscapeTest {
+    public static void main(String[] args) {te
+        System.out.println("Line1\nLine2");
+        System.out.println("Tab\tSepara")
+    }
+}
