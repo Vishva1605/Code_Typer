@@ -75,3 +75,6 @@ CodeTyper_Java_Typer_App/
 ```bash
 java -version
 javac -version
+
+## 📜 License
+This project is licensed under the MIT License.
